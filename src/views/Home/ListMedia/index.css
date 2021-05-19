@@ -1,0 +1,9 @@
+.listmedia{
+    margin: 0 auto;
+}
+.listmedia-column{
+    float: left;
+    margin: 0 auto;
+    padding: 50px;
+    background-color: white;
+}

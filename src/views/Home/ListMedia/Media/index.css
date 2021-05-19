@@ -1,0 +1,13 @@
+.media-image{
+    margin: 0 auto;
+    height: 250px;
+    width: 500px;
+}
+.media-div{
+    text-align: center;
+    width: 500px;
+    height: 450px;
+    /* border: 1px solid black; */
+    margin: 0 auto;
+
+}

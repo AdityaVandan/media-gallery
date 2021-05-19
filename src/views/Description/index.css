@@ -1,0 +1,25 @@
+.description-poster{
+  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2);
+  width: 300px;
+  height: 450px;
+}
+.description-div{
+  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2);
+  float: left;
+  margin: 10px auto;
+  padding: 50px;
+  width: 300px;
+  height: 550px;
+  float: left;
+  margin: 0 auto;
+  background-color: white;
+}
+.description-center{
+	position: absolute;
+	top:20%;
+	bottom: 0;
+	left: 18%;
+	right: 0;  	
+  margin: auto;
+  height: auto;
+}

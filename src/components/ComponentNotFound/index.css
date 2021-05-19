@@ -1,0 +1,10 @@
+.component-not-found-error404{
+    text-align: center;
+    background-image: url('https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/901370a7-ec10-4044-901c-82a189cc8036/d38rnod-2f6cb815-011d-47a8-bb9f-448c20f994c9.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOiIsImlzcyI6InVybjphcHA6Iiwib2JqIjpbW3sicGF0aCI6IlwvZlwvOTAxMzcwYTctZWMxMC00MDQ0LTkwMWMtODJhMTg5Y2M4MDM2XC9kMzhybm9kLTJmNmNiODE1LTAxMWQtNDdhOC1iYjlmLTQ0OGMyMGY5OTRjOS5qcGcifV1dLCJhdWQiOlsidXJuOnNlcnZpY2U6ZmlsZS5kb3dubG9hZCJdfQ.h23eFpGiD9vY6eRS36Z81ytxMYF2gnpE6n6UxT-n8yM');
+}
+.component-not-found-heading-section{
+    color: white;
+    padding: 25%;
+    font-size: 50px;
+    background-color: #333333;
+}

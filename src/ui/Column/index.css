@@ -1,0 +1,7 @@
+.column {
+    padding: 30px;
+    float: left;
+    width: 25%;
+    height: 600px;
+    /* border: 1px solid black; */
+}

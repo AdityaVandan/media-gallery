@@ -1,0 +1,14 @@
+.navbar {
+    text-align: center;
+    overflow: hidden;
+    border: 1px solid black;
+    margin: 20 px;
+    background-color: #05386b;
+    /* position: fixed; */
+    color: #edf5e1;
+    /* width: 100%; */
+    opacity: 1.0;
+}
+.navbar-title{
+    color: #edf5e1;
+}
